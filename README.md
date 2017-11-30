@@ -6,7 +6,7 @@
 [![David](https://img.shields.io/david/wshunli/hexo-tag-panoview.svg)](https://github.com/wshunli/hexo-tag-panoview)
 [![David](https://img.shields.io/david/dev/wshunli/hexo-tag-panoview.svg)](https://github.com/wshunli/hexo-tag-panoview)
 
-Insert [panoview](https://panoview.alipay.com/zh-cn/index.html) in Hexo by using tags.
+Insert panorama viewer in Hexo by using tags.
 
 ## Install
 
